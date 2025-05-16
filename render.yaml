@@ -1,17 +1,7 @@
-name: Deploy to Render
-
-on:
-  push:
-    branches:
-      - main  # Or 'master' depending on your default branch
-
-jobs:
-  deploy:
-    runs-on: ubuntu-latest
-
-    steps:
-    - name: Checkout code
-      uses: actions/checkout@v3
-
-    - name: Notify Render (Deploy happens via GitHub hook automatically)
-      run: echo "Code pushed to Render for deployment"
+services:
+  - type: web
+    name: max-earth-resources
+    env: docker
+    plan: free
+    dockerfilePath: Dockerfile
+    startCommand: php -S 0.0.0.0:10000 -t public
