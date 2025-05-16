@@ -1,5 +1,5 @@
 <?php
-$bannerImage = '/public/images/home-banner.jpg';
+$bannerImage = '/images/home-banner.jpg';
 $bannerHeading = 'Welcome to Our Company';
 $bannerText = 'Delivering excellence in minerals and mining.';
 

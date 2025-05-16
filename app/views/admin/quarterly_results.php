@@ -1,6 +1,6 @@
 <!-- quarterly_results.php -->
 <?php
-$bannerImage = '/public/images/admin-quarterly.jpg';
+$bannerImage = '/images/admin-quarterly.jpg';
 $bannerHeading = 'Admin - Quarterly Results';
 $bannerText = 'Manage and publish quarterly financial results';
 include __DIR__ . '/../partials/header.php';

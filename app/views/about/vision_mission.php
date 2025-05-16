@@ -1,5 +1,5 @@
 <?php
-$bannerImage = '/public/images/vision-mission-banner.jpg';
+$bannerImage = '/images/vision-mission-banner.jpg';
 $bannerHeading = 'Vision & Mission';
 $bannerText = 'Our company vision and mission statements.';
 

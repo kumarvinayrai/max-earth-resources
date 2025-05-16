@@ -1,6 +1,6 @@
 <!-- shareholders.php -->
 <?php
-$bannerImage = '/public/images/admin-shareholders.jpg';
+$bannerImage = '/images/admin-shareholders.jpg';
 $bannerHeading = 'Admin - Shareholders';
 $bannerText = 'Manage shareholder information';
 include __DIR__ . '/../partials/header.php';

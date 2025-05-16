@@ -1,5 +1,5 @@
 <?php
-$bannerImage = '/public/images/annual-reports-banner.jpg';
+$bannerImage = '/images/annual-reports-banner.jpg';
 $bannerHeading = 'Annual Reports';
 $bannerText = 'Download our annual financial reports.';
 

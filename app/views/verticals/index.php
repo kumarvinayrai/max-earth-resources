@@ -1,5 +1,5 @@
 <?php
-$bannerImage = '/public/images/verticals-banner.jpg';
+$bannerImage = '/images/verticals-banner.jpg';
 $bannerHeading = 'Our Verticals';
 $bannerText = 'Overview of business verticals.';
 

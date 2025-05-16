@@ -1,6 +1,6 @@
 <!-- news.php -->
 <?php
-$bannerImage = '/public/images/admin-news.jpg';
+$bannerImage = '/images/admin-news.jpg';
 $bannerHeading = 'Admin - News';
 $bannerText = 'Manage company news and updates';
 include __DIR__ . '/../partials/header.php';

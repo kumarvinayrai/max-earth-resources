@@ -1,5 +1,5 @@
 <?php
-$bannerImage = '/public/images/social-links-banner.jpg';
+$bannerImage = '/images/social-links-banner.jpg';
 $bannerHeading = 'Social Links';
 $bannerText = 'Follow us on social media platforms.';
 

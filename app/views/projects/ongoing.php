@@ -1,5 +1,5 @@
 <?php
-$bannerImage = '/public/images/projects-banner.jpg';
+$bannerImage = '/images/projects-banner.jpg';
 $bannerHeading = 'Ongoing Projects';
 $bannerText = 'Details of projects currently underway.';
 

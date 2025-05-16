@@ -1,5 +1,5 @@
 <?php
-$bannerImage = '/public/images/media-articles-banner.jpg';
+$bannerImage = '/images/media-articles-banner.jpg';
 $bannerHeading = 'Media Articles';
 $bannerText = 'Articles published in media about us.';
 

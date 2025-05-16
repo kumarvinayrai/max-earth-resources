@@ -1,5 +1,5 @@
 <?php
-$bannerImage = '/public/images/latest-news-banner.jpg';
+$bannerImage = '/images/latest-news-banner.jpg';
 $bannerHeading = 'Latest News';
 $bannerText = 'Company latest news and updates.';
 

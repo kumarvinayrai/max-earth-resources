@@ -1,6 +1,6 @@
 <!-- contact_form.php -->
 <?php
-$bannerImage = '/public/images/admin-contact.jpg';
+$bannerImage = '/images/admin-contact.jpg';
 $bannerHeading = 'Admin - Contact Form';
 $bannerText = 'View and manage contact form submissions';
 include __DIR__ . '/../partials/header.php';

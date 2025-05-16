@@ -1,5 +1,5 @@
 <?php
-$bannerImage = '/public/images/stock-price-banner.jpg';
+$bannerImage = '/images/stock-price-banner.jpg';
 $bannerHeading = 'Stock Price';
 $bannerText = 'Current stock price details.';
 

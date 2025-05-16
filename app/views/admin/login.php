@@ -1,5 +1,5 @@
 <?php
-$bannerImage = '/public/images/admin-login-banner.jpg';
+$bannerImage = '/images/admin-login-banner.jpg';
 $bannerHeading = 'Admin Login';
 $bannerText = 'Please login to access admin panel.';
 

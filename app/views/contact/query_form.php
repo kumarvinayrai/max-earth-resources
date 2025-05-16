@@ -1,5 +1,5 @@
 <?php
-$bannerImage = '/public/images/query-form-banner.jpg';
+$bannerImage = '/images/query-form-banner.jpg';
 $bannerHeading = 'Query Form';
 $bannerText = 'Submit your queries here.';
 

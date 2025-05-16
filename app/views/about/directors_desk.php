@@ -1,5 +1,5 @@
 <?php
-$bannerImage = '/public/images/directors-desk-banner.jpg';
+$bannerImage = '/images/directors-desk-banner.jpg';
 $bannerHeading = "Director's Desk";
 $bannerText = 'Message from the director.';
 

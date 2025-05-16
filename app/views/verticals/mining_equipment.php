@@ -1,5 +1,5 @@
 <?php
-$bannerImage = '/public/images/mining-equipment-banner.jpg';
+$bannerImage = '/images/mining-equipment-banner.jpg';
 $bannerHeading = 'Mining Equipment';
 $bannerText = 'Overview of mining equipment we use.';
 

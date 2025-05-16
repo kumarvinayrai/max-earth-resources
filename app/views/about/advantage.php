@@ -1,5 +1,5 @@
 <?php
-$bannerImage = '/public/images/advantage-banner.jpg';
+$bannerImage = '/images/advantage-banner.jpg';
 $bannerHeading = 'Our Advantage';
 $bannerText = 'Why choose us over others.';
 

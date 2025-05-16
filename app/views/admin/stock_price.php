@@ -1,6 +1,6 @@
 <!-- stock_price.php -->
 <?php
-$bannerImage = '/public/images/admin-stock.jpg';
+$bannerImage = '/images/admin-stock.jpg';
 $bannerHeading = 'Admin - Stock Price';
 $bannerText = 'Monitor and update stock prices';
 include __DIR__ . '/../partials/header.php';

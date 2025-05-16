@@ -1,6 +1,6 @@
 <!-- reports.php -->
 <?php
-$bannerImage = '/public/images/admin-reports.jpg';
+$bannerImage = '/images/admin-reports.jpg';
 $bannerHeading = 'Admin - Reports';
 $bannerText = 'Access and manage reports';
 include __DIR__ . '/../partials/header.php';

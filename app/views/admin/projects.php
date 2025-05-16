@@ -1,6 +1,6 @@
 <!-- projects.php -->
 <?php
-$bannerImage = '/public/images/admin-projects.jpg';
+$bannerImage = '/images/admin-projects.jpg';
 $bannerHeading = 'Admin - Projects';
 $bannerText = 'Manage ongoing and past projects';
 include __DIR__ . '/../partials/header.php';

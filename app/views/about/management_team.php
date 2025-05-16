@@ -1,5 +1,5 @@
 <?php
-$bannerImage = '/public/images/management-team-banner.jpg';
+$bannerImage = '/images/management-team-banner.jpg';
 $bannerHeading = 'Management Team';
 $bannerText = 'Meet our leadership team.';
 

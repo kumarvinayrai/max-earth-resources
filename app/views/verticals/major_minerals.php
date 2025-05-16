@@ -1,5 +1,5 @@
 <?php
-$bannerImage = '/public/images/major-minerals-banner.jpg';
+$bannerImage = '/images/major-minerals-banner.jpg';
 $bannerHeading = 'Major Minerals';
 $bannerText = 'Details on major minerals.';
 

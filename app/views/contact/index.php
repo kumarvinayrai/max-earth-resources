@@ -1,5 +1,5 @@
 <?php
-$bannerImage = '/public/images/contact-banner.jpg';
+$bannerImage = '/images/contact-banner.jpg';
 $bannerHeading = 'Contact Us';
 $bannerText = 'Reach out to us for any queries or support.';
 

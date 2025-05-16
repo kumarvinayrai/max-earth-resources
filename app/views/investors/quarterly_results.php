@@ -1,5 +1,5 @@
 <?php
-$bannerImage = '/public/images/quarterly-results-banner.jpg';
+$bannerImage = '/images/quarterly-results-banner.jpg';
 $bannerHeading = 'Quarterly Results';
 $bannerText = 'Latest quarterly financial results.';
 

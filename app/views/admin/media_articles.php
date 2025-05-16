@@ -1,6 +1,6 @@
 <!-- media_articles.php -->
 <?php
-$bannerImage = '/public/images/admin-media.jpg';
+$bannerImage = '/images/admin-media.jpg';
 $bannerHeading = 'Admin - Media Articles';
 $bannerText = 'Manage media coverage and publications';
 include __DIR__ . '/../partials/header.php';

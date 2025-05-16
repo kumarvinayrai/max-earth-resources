@@ -1,5 +1,5 @@
 <?php
-$bannerImage = '/public/images/investors-banner.jpg';
+$bannerImage = '/images/investors-banner.jpg';
 $bannerHeading = 'Investor Relations';
 $bannerText = 'Overview of investor information.';
 

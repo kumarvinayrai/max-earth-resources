@@ -1,5 +1,5 @@
 <?php
-$bannerImage = '/public/images/accomplishments-banner.jpg';
+$bannerImage = '/images/accomplishments-banner.jpg';
 $bannerHeading = 'Our Accomplishments';
 $bannerText = 'Achievements and milestones of the company.';
 

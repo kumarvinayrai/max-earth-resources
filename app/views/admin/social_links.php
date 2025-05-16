@@ -1,6 +1,6 @@
 <!-- social_links.php -->
 <?php
-$bannerImage = '/public/images/admin-social.jpg';
+$bannerImage = '/images/admin-social.jpg';
 $bannerHeading = 'Admin - Social Links';
 $bannerText = 'Manage social media links';
 include __DIR__ . '/../partials/header.php';
