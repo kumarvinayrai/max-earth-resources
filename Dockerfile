@@ -1,9 +1,3 @@
-FROM php:8.2-cli
-
-WORKDIR /var/www/html
-
-COPY . .
-
-EXPOSE 10000
-
-CMD ["php", "-S", "0.0.0.0:10000", "-t", "public"]
+FROM php:8.2-apache
+COPY ./public /var/www/html/
+EXPOSE 80
