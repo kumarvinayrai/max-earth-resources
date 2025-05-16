@@ -3,5 +3,6 @@ services:
     name: max-earth-resources
     env: docker
     plan: free
-    dockerfilePath: Dockerfile
-    startCommand: php -S 0.0.0.0:10000 -t public
+    repo: https://github.com/YOUR-USERNAME/YOUR-REPO
+    branch: main
+    rootDir: .
